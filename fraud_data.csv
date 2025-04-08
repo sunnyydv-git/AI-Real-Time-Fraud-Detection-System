@@ -1,0 +1,50 @@
+transaction_id,user_id,amount,transaction_type,status,device_id,location,is_foreign_transaction,num_chargebacks,predicted_fraud,potential_fraud
+1,165,1607.95,"withdrawal","completed","dev992","Chennai, India",False,0,,0
+2,723,3811.21,"transfer","pending","dev965","Mumbai, India",False,2,,0
+3,598,743.71,"withdrawal","pending","dev515","Bangalore, India",True,2,,1
+4,497,1903.64,"withdrawal","completed","dev489","Bangalore, India",True,2,,1
+5,205,11227.20,"withdrawal","pending","devF1997","Berlin, Germany",True,3,,1
+6,392,761.89,"purchase","pending","dev366","Bangalore, India",False,0,,0
+7,714,4158.65,"purchase","success","dev345","Delhi, India",True,1,,1
+8,155,3775.84,"withdrawal","success","dev771","Delhi, India",True,0,,1
+9,168,891.73,"purchase","pending","dev911","Bangalore, India",False,1,,0
+10,599,1986.05,"transfer","failed","dev551","Bangalore, India",False,2,,0
+11,823,3341.50,"transfer","success","dev149","Hyderabad, India",False,1,,0
+12,303,9954.28,"payment","pending","devF9087","Berlin, Germany",True,9,,1
+13,283,10955.50,"withdrawal","failed","devF3144","Berlin, Germany",True,4,,1
+14,937,13720.30,"purchase","failed","devF9037","Paris, France",True,5,,1
+15,233,4267.08,"withdrawal","failed","dev346","Delhi, India",False,1,,0
+16,568,1179.39,"withdrawal","success","dev310","Chennai, India",True,2,,1
+17,862,2126.14,"withdrawal","pending","dev551","Delhi, India",False,1,,0
+18,810,11280.90,"withdrawal","pending","devF4008","Berlin, Germany",True,6,,1
+19,378,2935.29,"payment","completed","dev922","Hyderabad, India",True,1,,1
+20,456,4588.58,"purchase","completed","dev302","Mumbai, India",False,1,,0
+22,793,13352.90,"purchase","pending","devF3337","Berlin, Germany",True,5,,1
+23,790,8513.13,"transfer","pending","devF8910","Paris, France",True,5,,1
+24,995,12268.90,"purchase","failed","devF7694","New York, USA",True,3,,1
+25,428,1877.26,"purchase","pending","dev633","Delhi, India",False,2,,0
+26,778,10971.50,"withdrawal","failed","devF7526","Paris, France",True,3,,1
+27,826,14311.90,"purchase","failed","devF7359","New York, USA",True,9,,1
+28,934,2406.91,"payment","pending","dev785","Mumbai, India",False,0,,0
+29,520,3741.55,"transfer","failed","dev870","Delhi, India",False,1,,0
+30,883,2817.55,"transfer","failed","dev622","Mumbai, India",False,1,,0
+31,366,11521.10,"payment","failed","devF7128","Paris, France",True,6,,1
+32,251,11210.70,"transfer","failed","devF2332","New York, USA",True,5,,1
+33,721,539.10,"purchase","failed","dev582","Mumbai, India",True,0,,1
+34,822,9612.29,"withdrawal","failed","devF9486","New York, USA",True,6,,1
+35,512,3329.71,"withdrawal","success","dev971","Delhi, India",True,2,,1
+36,274,2167.14,"purchase","completed","dev383","Hyderabad, India",False,0,,0
+37,649,9768.66,"transfer","failed","devF9517","Paris, France",True,10,,1
+38,651,2559.30,"transfer","success","dev912","Hyderabad, India",False,1,,0
+39,565,2753.64,"withdrawal","pending","dev443","Mumbai, India",False,0,,0
+40,576,12286.60,"purchase","pending","devF7200","Berlin, Germany",True,5,,1
+41,685,1146.76,"transfer","pending","dev300","Chennai, India",True,1,,1
+42,183,3255.78,"transfer","success","dev996","Mumbai, India",False,2,,0
+43,505,625.26,"purchase","success","dev169","Mumbai, India",True,0,,1
+44,982,4516.45,"payment","completed","dev911","Chennai, India",True,2,,1
+45,559,3607.14,"transfer","success","dev180","Mumbai, India",True,1,,1
+46,564,2244.75,"withdrawal","pending","dev326","Bangalore, India",True,0,,1
+47,825,4204.46,"withdrawal","failed","dev489","Delhi, India",False,2,,0
+48,407,11700.30,"withdrawal","pending","devF6739","New York, USA",True,6,,1
+49,888,9383.07,"withdrawal","pending","devF2176","Paris, France",True,10,,1
+50,352,4784.68,"payment","pending","dev163","Mumbai, India",False,0,,0
