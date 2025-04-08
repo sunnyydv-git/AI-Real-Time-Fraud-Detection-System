@@ -20,9 +20,9 @@ A scalable, end-to-end real-time fraud detection pipeline powered by **Apache Ka
 
 ## ⚙️ Architecture
 
-A[Kafka Producer] --> B[Kafka Topic: fraud_data]
-B --> C[Spark Structured Streaming]
-C --> D[Azure PostgreSQL]
-D --> E[Azure Data Factory ETL]
-E --> F[Azure ML REST Endpoint]
-F --> G[Predicted Fraud Stored in PostgreSQL]
+A[Kafka Producer] --> B[Kafka Topic: fraud_data]  
+B --> C[Spark Structured Streaming]  
+C --> D[Azure PostgreSQL]  
+D --> E[Azure Data Factory ETL]  
+E --> F[Azure ML REST Endpoint]  
+F --> G[Predicted Fraud Stored in PostgreSQL]  
