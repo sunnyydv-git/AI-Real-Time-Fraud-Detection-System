@@ -1,4 +1,8 @@
 # 🚨 Real-Time AI Fraud Detection System
+![Status](https://img.shields.io/badge/status-deployed-brightgreen)  
+![License](https://img.shields.io/badge/license-MIT-blue)  
+![Python](https://img.shields.io/badge/python-3.9+-blue)
+
 
 A scalable, end-to-end real-time fraud detection pipeline powered by **Apache Kafka**, **Apache Spark Streaming**, **Azure PostgreSQL**, **Azure Data Factory**, and **Azure ML Studio**. This project detects fraudulent transactions in real-time and stores the predictions back into a cloud-based database for immediate action.
 
@@ -31,7 +35,7 @@ A scalable, end-to-end real-time fraud detection pipeline powered by **Apache Ka
 
 ## 🧠 ML Model
 
-- Algorithm: **Random Forest Classifier  **  
+- Algorithm: **Random Forest Classifier**    
 - Trained in Azure ML Studio Notebooks  
 - Real-time predictions via Azure ML REST Endpoint  
 - Model endpoint: **fraud_detection_rf_model:1**    
