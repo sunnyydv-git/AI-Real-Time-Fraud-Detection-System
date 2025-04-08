@@ -26,3 +26,14 @@ C --> D[Azure PostgreSQL]
 D --> E[Azure Data Factory ETL]  
 E --> F[Azure ML REST Endpoint]  
 F --> G[Predicted Fraud Stored in PostgreSQL]  
+
+---
+
+## 🧠 ML Model
+
+- Algorithm: Random Forest Classifier  
+- Trained in Azure ML Studio Notebooks  
+- Real-time predictions via Azure ML REST Endpoint  
+- Model endpoint: fraud_detection_rf_model:1  
+
+---
